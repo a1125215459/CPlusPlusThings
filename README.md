@@ -1,3 +1,4 @@
+加句话
 # C++ 那些事
 
 [English version is here](./README_EN.md)
